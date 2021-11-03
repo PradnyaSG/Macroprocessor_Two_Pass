@@ -1,5 +1,5 @@
 //The combined code of pass1 and pass2 :
-//Keyword parameters and default parameters can also be given as input
+//Keyword parameters and default parameters are also included 
 import java.io.*;
 class KPTAB //for keyword parameter table
 {
